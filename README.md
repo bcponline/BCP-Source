@@ -8,6 +8,7 @@ Any style changes or modifications MUST be reflected in the master CSS file bcps
 As this site is a constant work in progress, please use the following information to maintain formatting consistency.
 
 Page headers need to use the following format, replacing the date with the current mod date and a description of the changes made.
+```html
 ***************************************PAGE HEADER****************************************
 
 <!DOCTYPE html>
@@ -21,8 +22,9 @@ Page headers need to use the following format, replacing the date with the curre
 <link rel="stylesheet" type="text/css" href="../bcpstyle.css"/>
 
 ***************************************PAGE HEADER****************************************
+```
 
-
+```html
 Page numbers use the following format:
 **************************************PAGE NUMBERS****************************************
 
@@ -44,3 +46,4 @@ Page numbers use the following format:
 
 
 **************************************PAGE NUMBERS****************************************
+```
