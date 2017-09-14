@@ -1,0 +1,262 @@
+body {
+	font-family: "Goudy Old Style", "Garamond", "Sabon", "Sabon LT Std", serif;
+	color: #000000;
+	background-color:  #FFFFFF;
+}
+
+#title {
+	font-size: 300%;
+	font-weight: bold;
+}
+
+
+.bigtitle {
+	font-size: 300%;
+	font-weight: bold;
+}
+
+.subtitle {
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.xx-small {
+	font-size: xx-small;
+}
+
+.x-small {
+	font-size: x-small;
+}
+
+.smaller {
+	font-size: smaller;
+}
+
+.small {
+	font-size: small;
+}
+
+.medium {
+	font-size: medium;
+}
+
+.large {
+	font-size: large;
+}
+
+.larger {
+	font-size: larger;
+}
+
+.x-large {
+	font-size: x-large;
+}
+
+.xx-large {
+	font-size: xx-large;
+}
+
+.leftfoot {
+	text-align: left;
+}
+
+.rightfoot {
+	text-align: right;
+}
+
+.topmenu {
+	text-align: center;
+	font-size: x-small;
+}
+
+#heading {
+	font-size: 200%;
+}
+
+.navbody {
+	background-color: #FFFBD7;
+}
+
+.navfont {
+	font-size: 9pt;
+}
+
+.rubric {
+	font-size: small;
+	font-style: italic;
+}
+
+.rubrictable {
+	font-size: small;
+	font-style: italic;
+	vertical-align: top;
+}
+
+.verse {
+	font-size: small;
+	font-style: italic;
+}
+
+.vrtable {
+	border: none;
+	width: 100%;
+	table-layout: auto;
+	border-collapse: collapse;
+}
+
+.vrpeople {
+	width: 6%;
+	font-size: small;
+	font-style: italic;
+}
+
+.psnum {
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+.pslatin {
+	font-size: small;
+	font-style: italic;
+}
+
+.vsnum {
+	font-size: small;
+}
+
+.psday {
+	font-size: smaller;
+	font-style: italic;
+}
+
+.direct {
+	font-style: italic;
+}
+
+.articlehead {
+	font-size: small;
+	font-weight: bold;
+}
+
+.qanda {
+	font-size: small;
+	font-style: italic;
+	vertical-align: text-top;
+}
+
+.padrubric {
+	font-size: small;
+	font-style: italic;
+	padding: 10px;
+}
+
+.padreg {
+	padding: 10px;
+}
+
+.padqanda {
+	font-size: small;
+	font-style: italic;
+	vertical-align: text-top;
+	padding: 12px;
+}
+
+.padreg2 {
+	padding: 12px;
+}
+
+.body {
+	line-height: 1.5;
+}
+
+.concern {
+	font-style: italic;
+}
+
+.h2u {
+	text-decoration: underline;
+}
+
+.ke {
+	width: 4%;
+}
+
+.ce {
+	width: 4%;
+	font-style: italic;
+}
+
+.or {
+	width: 1%;
+	font-style: italic;
+}
+
+.ketable {
+	border: none;
+	width: 30%;
+	table-layout: auto;
+	border-collapse: collapse;
+}
+
+.pntable {
+	border: none;
+	width: 50%;
+	table-layout: auto;
+	border-collapse: collapse;
+}
+
+.pn {
+	width: 50%;
+}
+
+.supdirect {
+	width: 6%;
+	font-size: small;
+	font-style: italic;
+	vertical-align: top;
+}
+
+.caltable {
+	border: none;
+	width: 50%;
+	font-size: small;
+	table-layout: auto;
+	border-collapse: collapse;
+}
+
+.nctable {
+	border: none;
+	width: 75%;
+	table-layout: auto;
+	border-collapse: collapse;
+}
+
+.nc {
+	width: 50%;
+}
+
+.gentable {
+	border: none;
+	width: 40%;
+	table-layout: auto;
+	border-collapse:  collapse;
+}
+
+.cattopic {
+	font-weight: bold
+}
+
+.lecttable {
+	font-size: small;
+	vertical-align: top;
+	table-layout:fixed;
+}
+
+.lecttd {
+	vertical-align: top;
+	width: 175px;
+}
+
+.lecttdv {
+	vertical-align: top;
+}
