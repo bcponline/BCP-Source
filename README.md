@@ -24,8 +24,8 @@ Page headers need to use the following format, replacing the date with the curre
 ***************************************PAGE HEADER****************************************
 ```
 
-```html
 Page numbers use the following format:
+```html
 **************************************PAGE NUMBERS****************************************
 
 
