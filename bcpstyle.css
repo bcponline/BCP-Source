@@ -261,3 +261,8 @@ body {
 .lecttdv {
 	vertical-align: top;
 }
+
+.dolecttd {
+	vertical-align: top;
+	width: 330px;
+}
