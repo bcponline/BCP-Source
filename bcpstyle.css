@@ -5,7 +5,7 @@ body {
 	background-color:  #FFFFFF;
 }
 
-#title {
+.title {
 	font-size: 300%;
 	font-weight: bold;
 }
@@ -132,6 +132,11 @@ body {
 
 .direct {
 	font-style: italic;
+}
+
+.adddirect {
+	font-style: italic;
+	font-size:  x-large;
 }
 
 .articlehead {
