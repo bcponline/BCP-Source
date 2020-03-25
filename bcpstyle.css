@@ -111,6 +111,12 @@ body {
 	font-style: italic;
 }
 
+.bigvrpeople {
+	width: 10%;
+	font-size: small;
+	font-style: italic;
+}
+
 .psnum {
 	font-size: xx-large;
 	font-weight: bold;
