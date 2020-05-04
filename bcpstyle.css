@@ -109,6 +109,7 @@ body {
 	width: 6%;
 	font-size: small;
 	font-style: italic;
+	vertical-align: text-top;
 }
 
 .bigvrpeople {
