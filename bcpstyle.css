@@ -239,7 +239,7 @@ body {
 
 .nctable {
 	border: none;
-	width: 75%;
+	width: 100%;
 	table-layout: auto;
 	border-collapse: collapse;
 }
