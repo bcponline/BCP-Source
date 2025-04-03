@@ -293,3 +293,7 @@ body {
 	width: 500px;
 }
 
+.alert {
+  background-color: #ff9800;
+  padding: 10px;
+}
